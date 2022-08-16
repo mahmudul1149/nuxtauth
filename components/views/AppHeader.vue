@@ -2,7 +2,7 @@
   <div>
     <header id="header">
       <div class="logo">
-        <img src="../../assets/auth.png" alt="" />
+        <h1>MI</h1>
       </div>
       <nav>
         <ul>
@@ -81,6 +81,9 @@ body {
   border-radius: 50%;
   box-sizing: border-box;
   outline: none;
+}
+.logo h1 {
+  color: #333 !important;
 }
 ul {
   display: flex;
